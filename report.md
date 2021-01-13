@@ -1,7 +1,7 @@
 # Title
 regular text
 ## LVL 2 heading
-regular text with a **bolded** word
+regular text with a **bolded** word and *italicized*
 ### LVL 3 heading
 
 To make a list:
@@ -21,4 +21,3 @@ List within list:
 - main list
   - sublist 1
   - sublist 2
-     - subsublist
